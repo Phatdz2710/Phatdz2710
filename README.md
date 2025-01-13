@@ -6,7 +6,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ngoc%20Phat&fontAlign=50)
 
-<div align="left">
+<div align="center">
   <table>
     <tr>
     <td>
@@ -16,7 +16,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2CD172&width=435&lines=I'm+FatProVip+!!!" alt="GitHub Streak Stats"/>
       </td>
       <td>
-        <img style="width: 100px" src="https://media.tenor.com/uzxDkT6K-lwAAAAj/hutao-money-hu-tao-genshin.gif" alt="GitHub Streak Stats" />
+        <img style="width: 170px" src="https://media1.tenor.com/m/P4idH1dRwhEAAAAd/ganyu-smol.gif" />
       </td>
     </tr>
   </table>
