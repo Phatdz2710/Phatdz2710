@@ -75,9 +75,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phatdz2710&layout=compact&theme=radical" alt="GitHub Streak Stats" />
 </br> </br>
 
-## 🎨 Contribution Graph
-[![Ngoc Phat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Phatdz2710&theme=dracula)]
-</br> </br>
 ## 🌐 Connect with Me
 
 <p align="center">
