@@ -32,16 +32,16 @@
         <b style="color: rgb(128, 78, 108);">🎓 Education: </b> VNUHCM University of Science 
       </p>
       <p style="font-family: Fira Code; font-size: 18px;">
-        <b style="color: rgb(79, 114, 140);">💻 Skills: </b> C++, C#, WPF, WinUI 3, WinForms, and more. 
+        <b style="color: rgb(79, 114, 140);">💻 Skills: </b> WPF, WinUI 3, WinForms, ASP.NET Core Web API. 
       </p>
       <p style="font-family: Fira Code; font-size: 18px;">
-        <b style="color: rgb(72, 145, 94);">🌱 Currently learning: </b> ReactJs, ASP.NET, AI. 
+        <b style="color: rgb(72, 145, 94);">🌱 Currently learning: </b> ReactJs, ASP.NET Core Web API. 
       </p>
       <p style="font-family: Fira Code; font-size: 18px;">
-        <b style="color: rgb(118, 129, 72);">💡 Interests: </b> Winforms, WPF, AI. 
+        <b style="color: rgb(118, 129, 72);">💡 Interests: </b> ASP.NET Core Web API, WPF. 
       </p>
       <p style="font-family: Fira Code; font-size: 18px;">
-        <b style="color: rgb(129, 72, 72);">🎯 Goals: </b> Full-Stack Developer (ReactJs + ASP.Net). 
+        <b style="color: rgb(129, 72, 72);">🎯 Goals: </b> Full-Stack Developer (ReactJs + ASP.Net Core). 
       </p>
 </div>
 
